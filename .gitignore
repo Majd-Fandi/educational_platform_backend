@@ -1,0 +1,32 @@
+# Media files
+/media/
+
+# Virtual environment
+/venv/
+/env/
+/.venv/
+
+# Database
+*.sqlite3
+*.db
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.env.local
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Static files (if collected)
+/staticfiles/

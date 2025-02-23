@@ -1,0 +1,5 @@
+# use pip install to install the following packages :
+
+djangorestframework 
+djangorestframework-simplejwt
+django-rest-passwordreset
